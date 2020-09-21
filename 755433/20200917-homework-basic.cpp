@@ -12,8 +12,7 @@ int main() {
     //判斷三的倍數
     if (num % 3 == 0) {
         cout << num << "為3的倍數";
-    }
-    else {
+    } else {
         cout << num << "不為3的倍數";
     }
 }
