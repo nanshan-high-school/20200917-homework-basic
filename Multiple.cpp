@@ -1,5 +1,6 @@
 ﻿#include <iostream>
-using namespace std;  
+using namespace std;
+
 int main() {
   int num;
   cout << "請輸入一個數字 :\n";
